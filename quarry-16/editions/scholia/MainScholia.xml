@@ -529,35 +529,37 @@
                     </div>
                     <div n="1007" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p>αἰ γὰρ <persName n="urn:cite2:hmt:pers:pers8">Ζεύ</persName> τε <choice><abbr>περ</abbr><expan>πάτερ</expan></choice>.</p>
                         </div>
                         <div type="ref">
-                            <p></p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.97-16.100</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>ἀθετοῦνται στίχοι τέσσαρες δι‘ ότι κατὰ
+διασκευὴν ἐμφαίνουσι γεγράφθαι ὑπό τινος τῶν νομιζόντων ἐρᾶν τὸν <persName n= "urn:cite2:hmt:pers:pers1"><choice><abbr>Αχ</abbr><expan>Ἀχιλλέα</expan></choice></persName> τοῦ <persName n="urn:cite2:hmt:pers:pers158">Πατρόκλου </persName>. τοιοῦτοι γὰρ οἱ λόγοι<q>πάντες ἀπόλοιντο πλὴν ἡμῶν</q>: καὶ ὁ <persName n="urn:cite2:hmt:pers:pers1"><choice><abbr>Αχι</abbr><expan>Ἀχιλλεὺς</expan></choice></persName> ὁ τοιοῦτος συμπαθὴς δέ ⁑</p>
                         </div>
                     </div>
                     <div n="1008" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p>ἐκδύμεν ὄλεθρον:</p>
                         </div>
                         <div type="ref">
-                            <p></p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.99</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>παροξυτονητέον· τὸ γὰρ πλῆρες ἐστὶν <q>ἐκδύμεναι</q>· ὁμοίως τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:16.145</ref><q>θοῶς ζευγνύμεν ἄνωγεν</q></cit> καὶ δῆλον ὅτι λείπει τὸ <q>γένοιτο</q> ⁑</p>
                         </div>
                     </div>
                     <div n="1009" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p>κρήδεμνα:</p>
                         </div>
                         <div type="ref">
-                            <p></p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.100</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>νῦν τὰ τάχει μεταφορικῶς· ἰδίως
+γὰρ <q>κρήδεμνον</q> τὸ τῆς κεφαλῆς κάλυμμα ⁑</p>
                         </div>
                     </div>
 
