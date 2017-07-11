@@ -121,7 +121,7 @@
                         </div>
                         <div type="comment">
                             <p><choice><abbr>ουτ</abbr><expan>οὕτως</expan></choice>
-                            <q>ἐναύλους</q> διὰ τοῦ <rs type="waw">ν<rs></p>
+                            <q>ἐναύλους</q> διὰ τοῦ <rs type="waw">ν</rs></p>
                         </div>
                     </div>
                     <div n="C5" type="scholion">
@@ -142,10 +142,12 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.76</p>
                         </div>
                         <div type="comment">
-                            <p>ἔν τισι τῶν υπο μνη <choice><abbr>ματ</abbr><expan>ματα</expan></choice> ἐπος ἔκλυον</p>
+                            <p>ἔν τισι τῶν <choice>
+                              <abbr>υπομνημάτ</abbr><expan>υπομνημάτων</expan>
+                            </choice> <q>ἔπος ἔκλυον</q>:</p>
                         </div>
                     </div>
                     <div n="1001" type="scholion">
@@ -153,10 +155,11 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.79</p>
                         </div>
                         <div type="comment">
-                            <p><choice><abbr>βραχ</abbr><expan>βραχῦ</expan></choice> διασταλτέον <q>κατέχουσι</q></p>
+                            <p><choice><abbr>βραχ</abbr><expan>βραχὺ</expan></choice>
+                            διασταλτέον <q>κατέχουσι</q> ⁑</p>
                         </div>
                     </div>
                     <div n="1002" type="scholion">
@@ -164,11 +167,14 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.85</p>
                         </div>
                         <div type="comment">
-                            <p>τὸ <rs type="waw">οι</rs> αρθετες
-                          ἐγκλιτικὸν δὶο ἐν τῆ συντάξει ἐγκλιτεόν</p>
+                            <p>τὸ <q>οι</q> <choice>
+                            <abbr>αρθ</abbr><expan>αρθρον</expan>
+                          </choice>
+                          <choice><abbr>εστ</abbr><expan>ἐστὶ</expan></choice>
+                          ἐγκλιτικὸν δὶο ἐν τῆ συντάξει ἐγκλιτεόν ⁑</p>
                         </div>
                     </div>
 
@@ -178,10 +184,11 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.88</p>
                         </div>
                         <div type="comment">
-                            <p>παροξυτονητέον ὅτι γράφεται μεσος <num value="2">β</num> <abbr>αο</abbr> </p>
+                            <p>παροξυτονητέον ἐστὶ γράφεται μεσος
+                              <num value="2">β</num> <choice><abbr>αο</abbr><expan>ἀόριστος</expan></choice></p>
                         </div>
                     </div>
                     <!-- 208r not edited -->
@@ -190,10 +197,14 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p></p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.117</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p><choice>
+                              <abbr>ουτ</abbr><expan>οὕτως</expan>
+                            </choice> ὡς λόγον ὁ <choice><abbr><persName n="urn:cite2:hmt:pers:pers485">Ασκαλωνιτ</persName></abbr>
+                            <expan><persName n="urn:cite2:hmt:pers:pers485">Ασκαλωνίτης</persName></expan></choice>
+                            καγὼ δὲ συγκατατίθεμαι ⁑</p>
                         </div>
                     </div>
                     <div n="3001" type="scholion">
