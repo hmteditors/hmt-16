@@ -86,10 +86,11 @@
                           <p/>
                       </div>
                       <div type="ref">
-                          <p></p>
+                          <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.25</p>
                       </div>
                       <div type="comment">
-                          <p></p>
+                          <p><persName n="urn:cite2:hmt:pers:pers21"><choice><abbr>Ἀριστοφ</abbr><expan>Ἀριστοφάνης</expan></choice></persName> έξω τοῦ άρθρου
+                          <q><choice><abbr>βέβλητ</abbr><expan>βέβληται</expan></choice> μὲν <persName n="urn:cite2:hmt:pers:pers215">Τυδείδης</persName></q> ⁑</p>
                       </div>
                   </div>
                   <!-- 206v all good-->
@@ -102,10 +103,12 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p></p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.60</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p><choice><abbr>οτ</abbr><expan>ὅτι</expan>
+                          </choice> τὸ <q><choice><sic>εάσωμεν</sic>
+                          <corr>εάσομεν</corr></choice></q> <choice><abbr>αντ</abbr><expan>ἀντὶ</expan></choice> τοῦ <q>ἐάσωμεν</q></p>
                         </div>
                     </div>
                     <div n="C2" type="scholion">
@@ -113,10 +116,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p></p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.61</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> τὸ <q>ἔφην</q> γε <choice><abbr>αντ</abbr><expan>ἀντὶ</expan></choice> τοῦ <q><choice><abbr>διενοήθ</abbr><expan>διενοήθην</expan></choice></q></p>
                         </div>
                     </div>
                     <div n="C3" type="scholion">
@@ -124,10 +127,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p></p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.61</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p> βέλτιον τοῖς πρώτοις τὸ <q>ἐνὶ φρεσὶ</q> συντάττειν:</p>
                         </div>
                     </div>
                     <div n="C4" type="scholion">
@@ -135,10 +138,11 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p></p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.68</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>βραχὺ <choice><abbr>διασταλτ</abbr><expan>διασταλτέον</expan></choice>
+                            μετα τὸ <q>κεκλίαται</q> πρὸς τὸ σαφέστερον ⁑</p>
                         </div>
                     </div>
                     <div n="C5" type="scholion">
@@ -146,10 +150,12 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p></p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.74</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> έοικεν ἀκηκοότι τὰ εἰρημένα
+                              <choice><abbr>υπ</abbr><expan>ὑπὸ</expan></choice>
+                              <persName n="urn:cite2:hmt:pers:pers215">Διομήδους</persName> μετα τὴν πρεσβείαν ⁑</p>
                         </div>
                     </div>
 
@@ -160,10 +166,11 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.87</p>
                         </div>
                         <div type="comment">
-                            <p>τὸ ανπεσπτος δύο γάρ χᾶν καὶ τοὶ</p>
+                            <p>τὸ <q>αυ</q>
+                            <choice><abbr>πεσπαστ</abbr><expan>περισπαστέον</expan></choice> δύο γάρ ἐστιν <q>αῦ</q> καὶ <q>τοὶ</q>:</p>
                         </div>
                     </div>
                     <div n="1001" type="scholion">
@@ -171,11 +178,12 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.92</p>
                         </div>
                         <div type="comment">
-                            <p>το <choice><abbr>ζηνοδ</abbr><expan>ζηνοδοτός</expan></choice>
-                          προ τὸ ΐλι <abbr>αιπὺδιεσθ</abbr></p>
+                            <p> <choice><abbr>οτ</abbr><expan>ὅτι</expan></choice>
+                            <persName n="urn:cite2:hmt:pers:pers15"><choice><abbr>Ζηνοδ</abbr><expan>Ζηνόδοτος</expan></choice></persName> <q>προς τὸ <placeName n="urn:cite2:hmt:place:place6">"Ί̈λιον</placeName> αιπὺ
+                            <choice><abbr>διεσθ</abbr><expan>δίεσθαι</expan></choice></q></p>
                         </div>
                     </div>
                     <div n="1002" type="scholion">
@@ -183,10 +191,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p></p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.99</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>ἡμεῖς δὲ ἐκφύγωμεν ⁑</p>
                         </div>
                     </div>
                     <!-- 208r all good -->
