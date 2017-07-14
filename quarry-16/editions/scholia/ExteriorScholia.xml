@@ -24,10 +24,10 @@
                           <p/>
                       </div>
                       <div type="ref">
-                          <p></p>
+                          <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.17</p>
                       </div>
                       <div type="comment">
-                          <p> </p>
+                          <p><del>ἠὲ αυ'</del></p>
                       </div>
                   </div>
 
@@ -43,10 +43,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.95</p>
                         </div>
                         <div type="comment">
-                            <p>τρω παᾶεσται τοῦσδε δ' ἐᾶν </p>
+                            <p><q>τρωπᾶσθαι</q></p>
                         </div>
                     </div>
                     <div n="1001" type="scholion">
@@ -54,10 +54,21 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.96</p>
                         </div>
                         <div type="comment">
-                            <p>λύοι μεν</p>
+                            <p><q>τοῦσ δε δ' ἐᾶν</q></p>
+                        </div>
+                    </div>
+                    <div n="1002" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.100</p>
+                        </div>
+                        <div type="comment">
+                            <p><q>λύοιμεν</q></p>
                         </div>
                     </div>
                     <!-- 208r unedited-->
@@ -67,10 +78,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p></p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.120</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p><q>κεῖρει</q></p>
                         </div>
                     </div>
                 </body>
