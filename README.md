@@ -1,2 +1,4 @@
 # hmt-16
-Complete edition of Iliad 16
+Edition of Iliad 16
+
+Resume editing on 208v
