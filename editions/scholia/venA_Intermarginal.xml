@@ -61,7 +61,7 @@
                         </div>
                         <div n="comment">
                             <p>ὅτι <choice><abbr>υπ</abbr><expan>ὑπό</expan></choice>
-                            <persName n="urn:cite:hmt:pers.pers117">νέστορος</persName> οὐκ ορθῶς λέγονται</p>
+                            <persName n="urn:cite2:hmt:pers:pers117">νέστορος</persName> οὐκ ορθῶς λέγονται</p>
                         </div>
                     </div>
                     <div n="B3" type="scholion">
@@ -72,7 +72,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msAim.hmt:16.50</p>
                         </div>
                         <div n="comment">
-                            <p><persName n="urn:cite:hmt:pers.pers16">ἀρισταρχος</persName> εἴ τίνα οἰδα δια τοῦ εῖ</p>
+                            <p><persName n="urn:cite2:hmt:pers:pers16">ἀρισταρχος</persName> εἴ τίνα οἰδα δια τοῦ εῖ</p>
                         </div>
                     </div>
 

@@ -207,7 +207,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.105</p>
                         </div>
                         <div n="comment">
-                            <p><persName n="urn:cite:hmt:pers.pers16"><choice><abbr>ἀρίσ</abbr><expan>Ἀρίσταρχοσ</expan></choice></persName>
+                            <p><persName n="urn:cite2:hmt:pers:pers16"><choice><abbr>ἀρίσ</abbr><expan>Ἀρίσταρχοσ</expan></choice></persName>
                              Δια τοῦ <q>καὶ</q>
                              <choice><abbr>συνδεσμ</abbr><expan>συνδέσμου</expan></choice>
                              <q>καὶ φάλαπα</q> Γπαφῶ παντῶσ βραχὺ Διεστελλεν ἐπι τὸ <q>αιεὶ</q> ⁑ </p>
