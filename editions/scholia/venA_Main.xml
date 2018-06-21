@@ -359,7 +359,7 @@
                             <p>ἡ <choice><abbr>τετριμμέ</abbr><expan>τετριμμένη</expan></choice> ἀνάγνωσις προπαροξύνει τὸ <q>εὐτείχεα</q> τοῦ λόγου ἀξιοῦντος
                               παροξύνειν εἴ γε τὸ <q>εὐτειχής</q> ὀφείλει  ὀξύνεσθαι· τὰ γὰρ παρ ουδέτερα δισύλλαβα εἰς <rs type="waw">ος</rs> λήγοντα μὴ τῷ
 <rs type="waw">η</rs> παραληγόμενα, συντιθέμενα εἰς <rs type="waw">ης</rs> λήγοντα <choice><abbr>ἀρσενι</abbr><expan>ἀρσενικὰ</expan></choice> ὀνόματα ὀξύνεται ἐπιθετικὰ ὄντα, εἶδος εὐεοδής βάθος <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:5.413</ref><q>ἀγχιβαθὴς δὲ θάλασσα</q></cit>, τὸ <rs type="waw">η</rs> παρῃτησάμην δια τὸ <q>μὴ</q> εὐμήκης, τὴν δισυλλαβίαν, δια τὸ <q>εὐμεγέθης</q>, τῶν παρα τὸ ἔτος ὑπεξαιρουμένων <q>ὅτριχας</q> γὰρ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.765</ref><q>οἱ ἐτέας</q></cit> ἀνέγνωμεν μόνως οὖν <q>εὐτειχής</q> καὶ <q>εὐτειχέα</q>. δευτέρω λόγω ὅσοις κυρίοις εἰς <rs type="waw">ης</rs> λήγουσι
-βαρυτόνοις συνθέτοις παράκειται ἐπιθετικα ὀξυνόμενα, <q>Διογένης</q> <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:21.17</ref><q>αὐτὰρ ὁ διογενής</q></cit>, <q>Πολυνίκης</q> ἀλλα <q>πολυνικὴς δι <persName n="urn:cite2:hmt:pers:pers94">Ελενα</persName></q> <q>Παγκράτης</q> <q>ἄ δε <choice><sic>παγκράτης</sic><corr>παγκρατὴς</corr></choice> ἀλήθεια</q> , <persName>Εὐρυσθένης</persName>· <q>ὁ πλοῦτος εὐρυσθενής</q>. εἰ δεῖ ἐστιν <persName>Εὐτείχης</persName> ὄνομα <choice><abbr>κν</abbr><expan>κύριον</expan></choice>, παρὰ <persName n="urn:cite2:hmt:pers:pers592">Ἀλκμᾶνι</persName>,
+βαρυτόνοις συνθέτοις παράκειται ἐπιθετικα ὀξυνόμενα, <q>Διογένης</q> <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:21.17</ref><q>αὐτὰρ ὁ διογενής</q></cit>, !!!!<q>Πολυνίκης</q> ἀλλα <q>πολυνικὴς δι <persName n="urn:cite2:hmt:pers:pers94">Ελενα</persName></q> <q>Παγκράτης</q> <cit><ref type="urn">urn:cts:greekLit:tlg0199.tlg018:14.4-14.5</ref><q>ἄ δε <choice><sic>παγκράτης</sic><corr>παγκρατὴς</corr></choice> ἀλήθεια</q></cit> , <q>Εὐρυσθένης</q>· <cit><ref type="urn">urn:cts:greekLit:tlg0033.tlg002:5.1</ref><q>ὁ πλοῦτος εὐρυσθενής</q></cit>. εἰ δεῖ ἐστιν <q>Εὐτείχης</q> ὄνομα <choice><abbr>κν</abbr><expan>κύριον</expan></choice>, παρὰ <persName n="urn:cite2:hmt:pers:pers592">Ἀλκμᾶνι</persName>,
 ὀξύνεται τὸ ἐπιθετικόν· πόθεν οὖν ἡ τετριμμένη βαρεῖα τάσις δώσωμεν ἀφορμήν·</p>
                         </div>
                     </div><div n="C5" type="scholion">
@@ -633,7 +633,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.117</p>
                         </div>
                         <div n="comment">
-                            <p>ἕως νῦν παρ‘<persName>Ί̈ωσιν</persName> οἱ κολοβοκέρατοι <choice><sic>κριοί</sic><corr>κριοὶ</corr></choice> κόλοι <choice><abbr>λεγοντ</abbr><expan>λεγονται</expan></choice> ⁑</p>
+                            <p>ἕως νῦν παρ'<rs type="ethnic" n="urn:cite2:hmt:place.2017a:place79">Ί̈ωσιν</rs> οἱ κολοβοκέρατοι <choice><sic>κριοί</sic><corr>κριοὶ</corr></choice> κόλοι <choice><abbr>λεγοντ</abbr><expan>λεγονται</expan></choice> ⁑</p>
                         </div>
                     </div>
                     <div n="3005" type="scholion">
