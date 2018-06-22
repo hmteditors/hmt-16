@@ -53,7 +53,7 @@
                       </div>
                       <div n="comment">
                           <p>δια τοῦ <rs type="waw">η</rs> <q>τεθνῃώτων</q>
-                     αἱ<choice><abbr><persName n="urn:cite2:hmt:pers:pers16">᾿Αρισταρχ</persName></abbr><expan><persName n="urn:cite2:hmt:pers:pers16">Αριστάρχου</persName></expan></choice></p>
+                     αἱ<choice><abbr><persName n="urn:cite2:hmt:pers:pers16">Ἀρισταρχ</persName></abbr><expan><persName n="urn:cite2:hmt:pers:pers16">Ἀριστάρχου</persName></expan></choice></p>
                       </div>
                   </div>
                   <div n="A4" type="scholion">
@@ -76,7 +76,7 @@
                       </div>
                       <div n="comment">
                           <p>ὡς <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:12.341</ref><q>
-                            <choice><abbr>ἱ̈στάμε</abbr><expan>ἱ̈στάμενοι</expan>
+                            <choice><abbr>ἱ+στάμε</abbr><expan>ἱ+στάμενοι</expan>
                           </choice></q></cit>
 προ                         <choice><abbr>προείρητ</abbr><expan>προείρηται</expan></choice> δὲ:</p>
                       </div>
