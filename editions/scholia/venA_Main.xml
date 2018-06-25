@@ -460,7 +460,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.86</p>
                         </div>
                         <div n="comment">
-                            <p>εἰς τὸ ὐπίσω <w>ἀποκαταστήσ<add place="supralinear">υ</add>σιν</w>
+                            <p>εἰς τουπίσω <w>ἀποκαταστήσ<add place="supralinear">υ</add>σιν</w>
                                 ἀποδώσουσεν. δια τὶ ὁ <persName n="urn:cite2:hmt:pers:pers1"><choice>
                                         <abbr>Αχι</abbr>
                                         <expan>Ἀχιλλεὺς</expan>
@@ -607,7 +607,7 @@
                     </div>
                     <div n="3003" type="scholion">
                         <div n="lemma">
-                            <p>ἀντι κρὺ δ' ἀπάραξε-</p>
+                            <p>ἀντικρὺ δ' ἀπάραξε-</p>
                         </div>
                         <div n="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.116-118</p>
